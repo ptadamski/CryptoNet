@@ -9,9 +9,9 @@ import java.io.*;
 import java.net.*;
 
 
-public class SocketConnection
+public class MultiClientServerConnection
 {
-    public SocketConnection(Socket socket) throws Exception
+    public MultiClientServerConnection(Socket socket) throws Exception
     {
         this.socket = socket;
         this.input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
@@ -22,26 +22,26 @@ public class SocketConnection
     private PrintWriter output;
     private Socket socket;   
 
-    void send(char[] buffer, int length){
+    public void send(char[] buffer, int length){
         output.write(buffer, 0, length);
     }
 
-    void receive(int length, char[] buffer) throws Exception {
+    public void receive(int length, char[] buffer) throws Exception {
         input.read(buffer, 0, length);
         input.mark(0);
         input.reset();
     }
 
-    Socket getSocket(){
+    public Socket getSocket(){
         return socket;
     }
     
-    void close() throws Exception
+    public void close() throws Exception
     {
         socket.close();
     }
     
-    void open() throws Exception
+    public void open() throws Exception
     {
         socket.connect(socket.getRemoteSocketAddress());
     }
