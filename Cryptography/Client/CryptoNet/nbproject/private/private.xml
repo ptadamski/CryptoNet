@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/H:/Projekty/CryptoNet/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Connection.java</file>
-            <file>file:/H:/Projekty/CryptoNet/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Client.java</file>
-            <file>file:/H:/Projekty/CryptoNet/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Server.java</file>
-            <file>file:/H:/Projekty/CryptoNet/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/ISocketEvent.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/ISocketEvent.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Connection.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Crypto/NonSymmCipher.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/MainClient.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Server.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/Client.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Sockets/MainServer.java</file>
+            <file>file://files/students/s287391/BPI/CryptoNet/Cryptography/Client/CryptoNet/src/Crypto/SymmCipher.java</file>
         </group>
     </open-files>
 </project-private>
