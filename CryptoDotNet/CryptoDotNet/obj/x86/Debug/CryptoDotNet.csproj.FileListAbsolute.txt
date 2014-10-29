@@ -1,0 +1,5 @@
+H:\Projekty\CryptoNet\CryptoDotNet\CryptoDotNet\bin\Debug\CryptoDotNet.exe
+H:\Projekty\CryptoNet\CryptoDotNet\CryptoDotNet\bin\Debug\CryptoDotNet.pdb
+H:\Projekty\CryptoNet\CryptoDotNet\CryptoDotNet\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projekty\CryptoNet\CryptoDotNet\CryptoDotNet\obj\x86\Debug\CryptoDotNet.exe
+H:\Projekty\CryptoNet\CryptoDotNet\CryptoDotNet\obj\x86\Debug\CryptoDotNet.pdb

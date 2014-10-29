@@ -1,0 +1,26 @@
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\bin\Debug\Multi Server.exe.config
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\bin\Debug\Multi Server.exe
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\bin\Debug\Multi Server.pdb
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\obj\Debug\Multi Server.csprojResolveAssemblyReference.cache
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\obj\Debug\Multi Server.exe
+c:\users\brian ferguson\documents\visual studio 2012\Projects\Multi Server\obj\Debug\Multi Server.pdb
+C:\Users\Brian\Downloads\Multi Server\bin\Debug\Multi Server.exe.config
+C:\Users\Brian\Downloads\Multi Server\obj\Debug\Multi Server.exe
+C:\Users\Brian\Downloads\Multi Server\obj\Debug\Multi Server.pdb
+C:\Users\Brian\Downloads\Multi Server\bin\Debug\Multi Server.exe
+C:\Users\Brian\Downloads\Multi Server\bin\Debug\Multi Server.pdb
+C:\Users\Brian\Downloads\Multi Server\obj\Debug\Multi Server.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\bin\Debug\Multi Server.exe.config
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\obj\Debug\Multi Server.exe
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\obj\Debug\Multi Server.pdb
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\bin\Debug\Multi Server.exe
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\bin\Debug\Multi Server.pdb
+C:\Documents and Settings\progger\Pulpit\sockets_-_multiple_clients\Multi Server\obj\Debug\ResolveAssemblyReference.cache
+H:\Projekty\CryptoNet\Multi Server\bin\Debug\Multi Server.exe.config
+H:\Projekty\CryptoNet\Multi Server\bin\Debug\Multi Server.exe
+H:\Projekty\CryptoNet\Multi Server\bin\Debug\Multi Server.pdb
+H:\Projekty\CryptoNet\Multi Server\obj\Debug\ResolveAssemblyReference.cache
+H:\Projekty\CryptoNet\Multi Server\obj\Debug\Multi Server.exe
+H:\Projekty\CryptoNet\Multi Server\obj\Debug\Multi Server.pdb
+H:\Projekty\CryptoNet\Multi Server\bin\Debug\CryptoDotNet.exe
+H:\Projekty\CryptoNet\Multi Server\bin\Debug\CryptoDotNet.pdb
