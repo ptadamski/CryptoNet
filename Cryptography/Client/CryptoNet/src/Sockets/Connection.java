@@ -57,7 +57,7 @@ public class Connection{
     protected static class StreamInputMonitor extends Thread {
         
         private Collection<Connection> connections;
-        private Boolean isRunning = false;
+        private Integer isRunning = -1;
         
         public StreamInputMonitor(){
             this.connections = new HashSet<Connection>();
@@ -72,10 +72,10 @@ public class Connection{
         }
         
         @Override
-        public void run(){
-            if(false == isRunning){                
-                isRunning = true;
-                while(isRunning)
+        public void run(){ 
+            if(isRunning != -1){
+                isRunning = 1;
+                while(isRunning>0)
                 {
                     for(Connection connection:connections)
                         try{
@@ -102,7 +102,7 @@ public class Connection{
         }
         
         public void halt() {
-            isRunning = false;
+            isRunning = 0;
         }
     }
 }

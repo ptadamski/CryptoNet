@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Cryptography;
+package Crypto;
 
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.IvParameterSpec;
+import javax.crypto.spec.SecretKeySpec;
 import javax.crypto.Cipher;
 import java.security.Key;
 
@@ -205,5 +206,28 @@ public class SymmCipher implements ICipher
     public Key showKey()
     {
         return key;
+    }
+    
+    public static void main(String[] args){
+        
+        //SymmCipher symm = new SymmCipher(Algorithm.DES, Mode.CBC, Padding.PKCS5, key);
+                
+        String s="ala ma kota a kot ma ale";
+        byte[] bytes = s.getBytes();
+        
+        SecretKey key = new SecretKeySpec(bytes, "DES");
+        SecretKey key2 = new SecretKeySpec(bytes, "DES");
+        
+        //if(new String(new byte[]{1,2}).equals(new String(new byte[]{1,2})))
+        
+        String str = new String(key2.getEncoded());
+        if( new String(key.getEncoded()).equals(str) )
+            System.out.println("takie same");
+      else
+            System.out.println("inne");
+        
+       System.out.println(new String(key.getEncoded()));
+        System.out.println(new String(key2.getEncoded()));
+        
     }
 }
